@@ -1,0 +1,82 @@
+#cards {
+    box-sizing: border-box;
+    background-color: rgb(141, 242, 242);
+  }
+* {text-align: center;
+    margin: 200;
+    /* pad: 4000; */
+    
+    background-color: rgb(141, 242, 242);
+  }
+  #profile{
+    float: auto;
+
+  }
+  h4{color : rgb(6, 88, 25);}
+  .card {margin: auto;
+    
+    float: auto;
+    width: 50%;
+    max-width: 360px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    background-color: beige;
+    margin: 20px auto;
+    ;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    
+  }
+
+  
+  .container {
+    padding: 25px;
+    margin: 20px auto;
+    max-width: 400px;
+    
+  }
+  
+  p {
+    font-size: 20px;
+    padding: 5px;
+    
+  }
+  
+  .card1 {
+    float:auto;
+   
+    width: 50%;
+    
+    max-width: 360px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    background-color: beige;
+    margin: 20px auto;
+ 
+    
+  }
+  
+  .card1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .container {
+    padding: 25px;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  p {
+    font-size: 20px;
+    padding: 5px;
+  }
+  #contact{
+    margin: 0px;
+  }
+  
+  
+
+  
+  

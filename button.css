@@ -1,0 +1,118 @@
+*{
+    background-color: rgb(39, 39, 190);
+}
+.register{
+    float: bottum;
+}
+#flatblue{
+    background-color: blue;
+    border: 0px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+  
+}
+#flatorange{
+    background-color: rgb(202, 151, 40);
+    border: 0px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 5px;
+}
+#roundgreen{
+    background-color: rgb(87, 124, 24);
+    border-radius: 10px ;
+    border: 0ch;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+  }
+#roundpink{
+    background-color: rgb(194, 43, 151);
+    border-radius: 10px ;
+    border: 0ch;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+   }
+#flatborderblue{
+    
+   background-color: none;
+    border-color: brown ;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+   }
+#flatborderpurple{
+    background-color: none;
+    border-color: rgb(192, 111, 193) ;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+  
+
+}
+#roundborderyellow{
+    background-color: none;
+    border-radius: 10px ;
+    border-color: hwb(54 36% 13%) ;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+   
+
+}
+#roundborderblue{
+    background-color: none;
+    border-radius: 10px ;
+    border-color: hwb(209 36% 13%) ;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+  
+
+
+}
+.buttons{
+  margin-top: 25%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 25%;
+
+
+}
+#flatblue:hover{
+    background-color:rgb(27, 117, 235);
+}
+#flatorange:hover{
+    background-color:rgb(242, 177, 48);
+}
+#roundgreen:hover{
+    background-color:rgb(33, 214, 42);
+}
+#roundpink:hover{
+    background-color:rgb(238, 88, 213);
+}
+#flatborderblue:hover{
+    background-color:  brown;
+
+}
+#flatborderpurple:hover{
+    background-color: rgb(192, 111, 193);
+
+}
+#roundborderyellow:hover{
+    background-color: hwb(54 36% 13%);
+
+}
+#roundborderblue:hover{
+    background-color:  hwb(209 36% 13%);
+
+}
